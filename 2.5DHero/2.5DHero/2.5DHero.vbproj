@@ -952,6 +952,7 @@
     <Compile Include="Pokemon\Attacks\Psychic\TrickRoom.vb" />
     <Compile Include="Pokemon\Attacks\Psychic\ZenHeadbutt.vb" />
     <Compile Include="Pokemon\Attacks\Rock\AncientPower.vb" />
+    <Compile Include="Pokemon\Attacks\Rock\DiamondStorm.vb" />
     <Compile Include="Pokemon\Attacks\Rock\HeadSmash.vb" />
     <Compile Include="Pokemon\Attacks\Rock\PowerGem.vb" />
     <Compile Include="Pokemon\Attacks\Rock\RockBlast.vb" />

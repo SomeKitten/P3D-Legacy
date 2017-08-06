@@ -1424,8 +1424,8 @@
                     returnMove = New Moves.Normal.PlayNice()
                 Case 590
                     returnMove = New Moves.Normal.Confide()
-                    'Case 591
-                    'Diamond Storm
+                Case 591
+                    returnMove = New Moves.Rock.DiamondStorm()
                 Case 592
                     returnMove = New Moves.Water.SteamEruption()
                     'Case 593
